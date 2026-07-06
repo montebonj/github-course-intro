@@ -1,3 +1,3 @@
 # github-course-intro
-"## About Me
-I am learning GitHub."
+## About Me
+I am learning GitHub.
